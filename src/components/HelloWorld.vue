@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h3>{{ msg }}</h3>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
@@ -8,7 +9,7 @@
         >vue-cli documentation</a
       >.
     </p>
-    <!-- <h3>Installed CLI Plugins</h3>
+    <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
         <a
@@ -35,7 +36,7 @@
         >
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <!-- <h3>Essential Links</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
